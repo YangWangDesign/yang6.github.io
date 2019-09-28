@@ -4,9 +4,15 @@ Email: yang6@vt.edu
 
 I am a third year Planning, Governance & Globalization (PGG) Program Ph.D. student at Virginia Tech. I come from Beijing, China. I graduated in the Master of Landscape Architecture program at Auburn University on May 3, 2014. My research of interests include urban regeneration, urban regional environmental planning, land use science, data mining & analytics, urban vacant land, climate change adaptation, and Post – Occupancy Evaluation of the effects of use at the sustainable landscape and planning, particularly in the more productive use of open space and vacant land through increase application of ecological science and urban ecology. In addition, I am also interested in how our urban designs impact the sustainability of natural and social environments, then examine by Landscape Post – Occupancy Evaluation. My career goal is to become a professor at the university in Beijing, China.
 
+### EDUCATION
+Ph.D of Planning, Governance & Globalization (PGG)               2017 - Present
+
+Urban Affairs and Planning, Virginia Tech
+
 ```diff
 - Highlight: I'm looking for any research assistant position related to my experience :). Please feel free to contact me!
 ```
+
 ### Project
 #### Personalized news sentence generation
 Nowadays, Deep Learning-based text generation model need huge amount of text data to learn how to write a sentence. However, people usually don't write many articles during their life, which makes it difficult to design a deep learning model to mimic personalized writing style. Thus, we introduce this novel approach to address this problem. 
